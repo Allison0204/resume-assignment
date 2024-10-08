@@ -1,0 +1,132 @@
+.hd1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.951);
+  height: 220px;
+  margin-top: 40px;
+  border-bottom: 8px solid #fcbd00;
+  padding-bottom: 50px;
+}
+.hd1_c1{
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hd1_c2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 100px;
+}
+.hd1_c1 p{
+  font-size: 27px;
+  color: rgb(27, 27, 27);
+  margin: 2px 0; 
+}
+
+.hd1_c2 p{
+  font-size: 13px;
+  color: rgb(27, 27, 27);
+}
+
+.pp1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.951);
+  height: 120px;
+  border-bottom: solid;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+.pp1_c1{
+  width: 400px;
+}
+.pp1_c1 p{
+  font-size: 25px;
+}
+.pp1_c2 p{
+  font-size: 24px;
+}
+.we1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.951);
+  height: 320px;
+  border-bottom: solid;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+.we1_c1{
+  width: 400px;
+}
+.we1_c1 p{
+  font-size: 25px;
+}
+.we1_c2{
+  margin-top: 5px;
+}
+.we1_c2 p{
+  font-size: 24px;
+}
+.ks1{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 0.951);
+  height: 150px;
+  border-bottom: solid;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.ks1_c1{
+  width: 250px;
+}
+.ks1_c1 p{
+  font-size: 25px;
+}
+.ks1_c2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500px;
+  padding-top: 25px;
+}
+.ks1_c2 p {
+  font-size: 24px;
+  text-align: left;
+  margin: 2px 0; 
+}
+.ed1{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 0.951);
+  height: 800px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.ed1_c1 p{
+  font-size: 25px;
+  width: 250px;
+}
+.ed1_c2{
+  font-size: 24px;
+  margin-right: 50px;
+}
+.bold{
+  font-weight: bold;
+}
+.title{
+  font-weight: bold;
+  font-style: italic;
+}
+.link{
+  color: blue;
+  text-decoration: underline;
+}
